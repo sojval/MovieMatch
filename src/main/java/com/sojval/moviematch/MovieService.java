@@ -96,18 +96,25 @@ public class MovieService {
     }
 
     public double cosineSimilarity(float[] embedding1, float[] embedding2) {
+
         double dotProduct = 0;
         double normA = 0;
         double normB = 0;
+
         for (int i = 0; i < embedding1.length; i++) {
-            dotProduct +=(embedding1[i]*embedding2[i]);
-            normA +=(embedding1[i]*embedding2[i]);
-            normB +=(embedding1[i]*embedding2[i]);
+
+            dotProduct += embedding1[i] * embedding2[i];
+
+            normA += embedding1[i] * embedding1[i];
+
+            normB += embedding2[i] * embedding2[i];
         }
-        if(normA==0 || normB==0){
+
+        if (normA == 0 || normB == 0) {
             return 0;
         }
-        return dotProduct/(Math.sqrt(normA)*Math.sqrt(normB));
+
+        return dotProduct / (Math.sqrt(normA) * Math.sqrt(normB));
     }
     private void sortBySimilarity(List<MovieMatch> matches) {
         Collections.sort(matches,

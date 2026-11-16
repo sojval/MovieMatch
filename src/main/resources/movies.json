@@ -118,5 +118,1885 @@
   {
     "title": "Andhadhun",
     "description": "A pianist pretending to be blind becomes trapped in a dangerous web of murder, deception and unpredictable consequences."
+  },
+  {
+    "title": "Blade Runner",
+    "description": "A weary detective hunts rogue androids in a rain-soaked future city and starts to doubt what makes someone human."
+  },
+  {
+    "title": "Blade Runner 2049",
+    "description": "A new blade runner uncovers a long-buried secret that could plunge society into chaos and searches for a missing predecessor."
+  },
+  {
+    "title": "Arrival",
+    "description": "A linguist races to decode the language of mysterious alien visitors before global tensions lead to war."
+  },
+  {
+    "title": "Ex Machina",
+    "description": "A young programmer is invited to test whether a reclusive founder's humanlike robot has real consciousness."
+  },
+  {
+    "title": "Alien",
+    "description": "The crew of a commercial spaceship is hunted one by one by a deadly creature that boarded during a routine stop."
+  },
+  {
+    "title": "Aliens",
+    "description": "A lone survivor returns to a hostile planet with a squad of marines to confront a colony of lethal creatures."
+  },
+  {
+    "title": "The Terminator",
+    "description": "A cyborg assassin is sent back in time to kill a waitress whose unborn son will lead the human resistance."
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "description": "A reprogrammed machine protects a boy and his mother from a more advanced killer sent to end the future resistance."
+  },
+  {
+    "title": "Star Wars: A New Hope",
+    "description": "A farm boy joins a smuggler, a princess and a rebel alliance to destroy a planet-killing space station."
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "description": "Rebel heroes scatter under pressure from an empire while a young pilot trains with a hidden Jedi master."
+  },
+  {
+    "title": "Return of the Jedi",
+    "description": "The rebels launch a final assault on the empire while a young Jedi confronts his father and the emperor."
+  },
+  {
+    "title": "Back to the Future",
+    "description": "A teenager is accidentally sent to 1955 and must make sure his parents fall in love so he can return home."
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "description": "A lonely boy befriends a stranded alien and tries to help it get home before government agents find it."
+  },
+  {
+    "title": "Close Encounters of the Third Kind",
+    "description": "An ordinary worker becomes obsessed with a vision of a mountain after a close encounter with unidentified flying objects."
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "description": "Astronauts on a mission to Jupiter clash with their ship's calm but increasingly sinister computer."
+  },
+  {
+    "title": "Minority Report",
+    "description": "In a future where crimes are predicted before they happen, a police officer is accused of a murder he hasn't committed."
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "description": "A soldier caught in a time loop relives the same battle against alien invaders until he learns to win."
+  },
+  {
+    "title": "District 9",
+    "description": "An agent overseeing the relocation of aliens living in a slum begins to change after exposure to their technology."
+  },
+  {
+    "title": "Moon",
+    "description": "A lone worker nearing the end of his contract at a lunar mining base discovers a disturbing truth about himself."
+  },
+  {
+    "title": "Children of Men",
+    "description": "In a future where humanity can no longer have children, a bureaucrat protects the first pregnant woman in years."
+  },
+  {
+    "title": "The Fifth Element",
+    "description": "A cab driver in the future helps a mysterious woman gather ancient stones needed to stop an approaching cosmic evil."
+  },
+  {
+    "title": "Total Recall",
+    "description": "A construction worker discovers his memories may be fake after visiting a company that implants vacations in people's minds."
+  },
+  {
+    "title": "Dune",
+    "description": "A noble heir and his family are betrayed on a desert planet, where he joins the native people and rises as a leader."
+  },
+  {
+    "title": "Dune: Part Two",
+    "description": "The exiled heir unites with desert warriors to take revenge on the conspirators who destroyed his family."
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "description": "A drifter and a rebel driver flee a tyrant across the wasteland with a group of women he held captive."
+  },
+  {
+    "title": "Her",
+    "description": "A lonely writer falls in love with an artificial intelligence operating system that learns and grows beyond him."
+  },
+  {
+    "title": "Tenet",
+    "description": "A secret agent learns to manipulate the flow of time to prevent a global catastrophe coming from the future."
+  },
+  {
+    "title": "Looper",
+    "description": "A hired killer is ordered to eliminate his future self, but the older version escapes with a plan of his own."
+  },
+  {
+    "title": "Gattaca",
+    "description": "In a society that ranks people by their genes, a man with imperfect DNA assumes another's identity to reach space."
+  },
+  {
+    "title": "The Truman Show",
+    "description": "A man slowly discovers that his whole life is a television show watched by millions."
+  },
+  {
+    "title": "Wall-E",
+    "description": "A lonely waste-collecting robot on an abandoned Earth falls for a sleek probe and ends up leading humans back home."
+  },
+  {
+    "title": "Ready Player One",
+    "description": "A teenager searches a vast virtual world for hidden clues that will give him control of the game and a fortune."
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "description": "A band of misfit outlaws unites to protect a powerful orb from a fanatical warlord."
+  },
+  {
+    "title": "Iron Man",
+    "description": "A billionaire inventor builds an armored suit to escape captivity and then uses it to fight those who misuse his weapons."
+  },
+  {
+    "title": "The Avengers",
+    "description": "Earth's mightiest heroes must overcome their differences to stop an alien army led by a vengeful god."
+  },
+  {
+    "title": "Black Panther",
+    "description": "A new king of a hidden African nation faces a rival who challenges his throne and the country's isolation."
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "description": "A teenager from Brooklyn meets spider heroes from other dimensions and learns what it takes to wear the mask."
+  },
+  {
+    "title": "Pacific Rim",
+    "description": "Giant robots piloted by two people linked in mind fight enormous sea monsters rising from the ocean floor."
+  },
+  {
+    "title": "Contact",
+    "description": "A scientist who hears a signal from deep space must convince the world to trust a message from an alien civilization."
+  },
+  {
+    "title": "Annihilation",
+    "description": "A biologist joins an expedition into a strange zone where nature mutates and the rules of reality break down."
+  },
+  {
+    "title": "Apollo 13",
+    "description": "Three astronauts try to return home alive after an explosion cripples their spacecraft on the way to the moon."
+  },
+  {
+    "title": "Die Hard",
+    "description": "An off-duty police officer fights terrorists who take over a Los Angeles skyscraper during a Christmas party."
+  },
+  {
+    "title": "Mission: Impossible - Fallout",
+    "description": "A secret agent races to recover stolen plutonium while his loyalty is questioned by his own side."
+  },
+  {
+    "title": "Casino Royale",
+    "description": "A new secret agent plays a high-stakes poker game to bankrupt a terrorist financier and falls in love along the way."
+  },
+  {
+    "title": "Skyfall",
+    "description": "A veteran spy defends his agency and his aging boss from a vengeful former operative."
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "description": "An archaeologist races Nazi agents across the world to find the legendary Ark of the Covenant."
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "description": "An archaeologist and his father search for the Holy Grail while foiling Nazi rivals."
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "description": "A blacksmith teams with an eccentric pirate to rescue a governor's daughter from cursed buccaneers."
+  },
+  {
+    "title": "The Bourne Identity",
+    "description": "A man with no memory discovers he is a trained assassin and is hunted by the agency that created him."
+  },
+  {
+    "title": "Speed",
+    "description": "A police officer must keep a bus above fifty miles per hour to stop a bomb from exploding."
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "description": "A veteran naval aviator trains young pilots for a dangerous mission while confronting his past."
+  },
+  {
+    "title": "Kill Bill: Volume 1",
+    "description": "A former assassin wakes from a coma and sets out to take revenge on the team that betrayed her."
+  },
+  {
+    "title": "Crouching Tiger, Hidden Dragon",
+    "description": "A warrior and a young aristocrat chase a stolen sword while an old love is tested in ancient China."
+  },
+  {
+    "title": "The Raid",
+    "description": "A rookie police team becomes trapped in a gang-controlled tower block and must fight floor by floor to escape."
+  },
+  {
+    "title": "Heat",
+    "description": "A professional thief and an obsessive detective close in on each other during a final big score in Los Angeles."
+  },
+  {
+    "title": "Fast Five",
+    "description": "A crew of street racers plans a massive heist in Rio while a relentless federal agent hunts them."
+  },
+  {
+    "title": "First Blood",
+    "description": "A veteran is pushed too far by a small-town sheriff and fights back in the woods."
+  },
+  {
+    "title": "Predator",
+    "description": "An elite military team on a jungle rescue mission is stalked by an invisible alien hunter."
+  },
+  {
+    "title": "The Equalizer",
+    "description": "A quiet retired agent steps in to protect a young woman from violent gangsters."
+  },
+  {
+    "title": "Taken",
+    "description": "A former agent uses his special skills to rescue his kidnapped daughter before she disappears into a trafficking ring."
+  },
+  {
+    "title": "Lethal Weapon",
+    "description": "A suicidal veteran detective and a by-the-book partner chase a ring of drug smugglers."
+  },
+  {
+    "title": "Rush Hour",
+    "description": "A Hong Kong inspector and a loud Los Angeles detective team up to rescue a kidnapped girl."
+  },
+  {
+    "title": "The Mummy",
+    "description": "An adventurer and a librarian awaken a cursed high priest while exploring an ancient city in Egypt."
+  },
+  {
+    "title": "Jumanji: Welcome to the Jungle",
+    "description": "Four teenagers are pulled into a video game and must complete its quest using the avatars they receive."
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "A hobbit and a group of companions set out to destroy a powerful ring before a dark lord finds it."
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "description": "The fellowship is split as battles rage for the fate of a kingdom and the ring bearer continues his journey."
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "description": "The final battle for Middle-earth begins as the ring bearer nears the fires where the ring must be destroyed."
+  },
+  {
+    "title": "The Hobbit: An Unexpected Journey",
+    "description": "A reluctant hobbit joins a company of dwarves to reclaim their homeland from a dragon."
+  },
+  {
+    "title": "Life of Pi",
+    "description": "A boy survives a shipwreck on a lifeboat with a tiger and learns to endure through faith and imagination."
+  },
+  {
+    "title": "Cast Away",
+    "description": "A delivery executive stranded on a deserted island fights to survive for years and keep hope alive."
+  },
+  {
+    "title": "The Revenant",
+    "description": "A frontiersman left for dead by his hunting party crawls across a frozen wilderness to take revenge."
+  },
+  {
+    "title": "Everest",
+    "description": "Climbers on a commercial expedition are caught in a deadly storm near the top of the world's highest mountain."
+  },
+  {
+    "title": "127 Hours",
+    "description": "A hiker trapped by a boulder in a remote canyon must make an extreme choice to survive."
+  },
+  {
+    "title": "Into the Wild",
+    "description": "A graduate gives away his savings and heads into the Alaskan wilderness searching for freedom."
+  },
+  {
+    "title": "Kung Fu Panda",
+    "description": "A clumsy panda is chosen as a legendary warrior and learns to defend his valley from a fierce snow leopard."
+  },
+  {
+    "title": "Ocean's Eleven",
+    "description": "A charming thief assembles a crew of specialists to rob three casinos in a single night."
+  },
+  {
+    "title": "The Italian Job",
+    "description": "A team of thieves plots to steal gold from a former partner who betrayed them."
+  },
+  {
+    "title": "Baby Driver",
+    "description": "A young getaway driver who works to the beat of his music tries to leave crime behind for the woman he loves."
+  },
+  {
+    "title": "The Great Escape",
+    "description": "Allied prisoners of war plan a mass escape from a supposedly escape-proof German camp."
+  },
+  {
+    "title": "Seven Samurai",
+    "description": "Villagers hire seven masterless warriors to defend them from a band of bandits."
+  },
+  {
+    "title": "Rocky",
+    "description": "A small-time boxer gets a shot at the heavyweight title and fights for self-respect."
+  },
+  {
+    "title": "Creed",
+    "description": "The son of a legendary boxer asks a retired champion to train him for a chance at the title."
+  },
+  {
+    "title": "12 Angry Men",
+    "description": "A single juror holds out against the others and slowly forces them to reconsider a murder verdict."
+  },
+  {
+    "title": "Schindler's List",
+    "description": "A businessman saves over a thousand Jewish workers from the Holocaust by employing them in his factory."
+  },
+  {
+    "title": "The Green Mile",
+    "description": "A prison guard on death row befriends a gentle inmate with an unexplained healing gift."
+  },
+  {
+    "title": "Good Will Hunting",
+    "description": "A janitor who is a mathematical genius is pushed by a therapist to face his past and his talent."
+  },
+  {
+    "title": "Dead Poets Society",
+    "description": "A teacher inspires prep school students to seize the day, with consequences for the school and its rules."
+  },
+  {
+    "title": "A Beautiful Mind",
+    "description": "A brilliant mathematician struggles with delusions while striving to keep his marriage and career intact."
+  },
+  {
+    "title": "The Social Network",
+    "description": "A college student builds a social site that becomes a global phenomenon and ends up in lawsuits with his friends."
+  },
+  {
+    "title": "Whiplash",
+    "description": "A young drummer is pushed to the edge by an abusive conductor at an elite music conservatory."
+  },
+  {
+    "title": "Black Swan",
+    "description": "A dancer cast as the lead in a ballet slowly loses her grip on reality while chasing perfection."
+  },
+  {
+    "title": "Requiem for a Dream",
+    "description": "Four people in New York chase separate dreams as their obsessions pull them apart."
+  },
+  {
+    "title": "American Beauty",
+    "description": "A middle-aged suburban father's midlife crisis disrupts his family and neighbors."
+  },
+  {
+    "title": "The Pianist",
+    "description": "A Jewish pianist struggles to survive in the ruins of the Warsaw ghetto during World War II."
+  },
+  {
+    "title": "Life Is Beautiful",
+    "description": "A father uses humor and imagination to shield his young son from the horrors of a concentration camp."
+  },
+  {
+    "title": "Slumdog Millionaire",
+    "description": "A teenager from the slums of Mumbai gets a shot at a game show, and each answer comes from a hard memory of his life."
+  },
+  {
+    "title": "Parasite",
+    "description": "A poor family schemes to become employed by a wealthy household, with unexpected consequences."
+  },
+  {
+    "title": "Moonlight",
+    "description": "A young man grows up in a rough Miami neighborhood and slowly comes to terms with his identity."
+  },
+  {
+    "title": "Manchester by the Sea",
+    "description": "A man returns to his hometown after his brother's death and must care for his teenage nephew while facing his own grief."
+  },
+  {
+    "title": "Boyhood",
+    "description": "A boy grows from age six to eighteen, filmed over twelve years, as his family changes around him."
+  },
+  {
+    "title": "Birdman",
+    "description": "A faded actor famous for a superhero role tries to revive his career by staging a Broadway play."
+  },
+  {
+    "title": "The Intouchables",
+    "description": "A wealthy man with paralysis hires an unconventional caregiver from the projects and the two form a friendship."
+  },
+  {
+    "title": "Rain Man",
+    "description": "A selfish young man discovers his late father left his fortune to an autistic brother he never knew."
+  },
+  {
+    "title": "Hotel Rwanda",
+    "description": "A hotel manager shelters over a thousand refugees during the Rwandan genocide."
+  },
+  {
+    "title": "The King's Speech",
+    "description": "A future king with a stammer works with an unorthodox speech therapist to prepare for a vital broadcast."
+  },
+  {
+    "title": "Philadelphia",
+    "description": "A lawyer fired from his firm hires a rival attorney to fight for his dignity in court."
+  },
+  {
+    "title": "Erin Brockovich",
+    "description": "A single mother with no legal training investigates a utility company for poisoning a town's water."
+  },
+  {
+    "title": "Spotlight",
+    "description": "Journalists at a newspaper uncover a decades-long cover-up of abuse by priests in Boston."
+  },
+  {
+    "title": "The Departed",
+    "description": "An undercover cop and a mole inside the police force race to expose each other in Boston's criminal underworld."
+  },
+  {
+    "title": "Goodfellas",
+    "description": "A young man rises through the ranks of the mob and sees his world fall apart."
+  },
+  {
+    "title": "Scarface",
+    "description": "A Cuban refugee builds a violent cocaine empire in Miami and is destroyed by his own greed."
+  },
+  {
+    "title": "Taxi Driver",
+    "description": "A lonely veteran working nights as a cabbie in New York slides toward violence while trying to save a young girl."
+  },
+  {
+    "title": "Raging Bull",
+    "description": "A boxer's self-destructive rage ruins his career and relationships."
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "description": "A rebellious convict fakes madness and challenges the iron rule of a nurse in a psychiatric ward."
+  },
+  {
+    "title": "Apocalypse Now",
+    "description": "A captain travels up a river in Vietnam to find and eliminate a rogue colonel who has gone insane."
+  },
+  {
+    "title": "Full Metal Jacket",
+    "description": "Marine recruits endure brutal training before facing the realities of the Vietnam War."
+  },
+  {
+    "title": "Saving Private Ryan",
+    "description": "A squad of soldiers searches war-torn France for a paratrooper whose brothers have been killed."
+  },
+  {
+    "title": "Dunkirk",
+    "description": "Soldiers, sailors and civilians race to evacuate hundreds of thousands of trapped troops from a French beach."
+  },
+  {
+    "title": "1917",
+    "description": "Two young soldiers are sent across enemy territory to deliver a message that could save sixteen hundred men."
+  },
+  {
+    "title": "Oppenheimer",
+    "description": "The physicist who led the Manhattan Project wrestles with the consequences of building the atomic bomb."
+  },
+  {
+    "title": "Braveheart",
+    "description": "A Scottish warrior leads a rebellion against English rule after the murder of his wife."
+  },
+  {
+    "title": "The Last Samurai",
+    "description": "A weary American officer is captured by samurai and slowly comes to respect their way of life."
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "description": "A medic who refuses to carry a weapon saves dozens of wounded soldiers during a brutal battle in Okinawa."
+  },
+  {
+    "title": "Inglourious Basterds",
+    "description": "A group of soldiers and a theater owner separately plot to bring down the Nazi leadership in occupied France."
+  },
+  {
+    "title": "Pulp Fiction",
+    "description": "Interlocking stories of hitmen, a boxer and a gangster's wife unfold across Los Angeles."
+  },
+  {
+    "title": "Django Unchained",
+    "description": "A freed slave teams with a bounty hunter to rescue his wife from a brutal plantation owner."
+  },
+  {
+    "title": "No Country for Old Men",
+    "description": "A hunter who finds drug money in the desert is chased by a relentless killer while a sheriff tries to keep up."
+  },
+  {
+    "title": "There Will Be Blood",
+    "description": "A ruthless oilman rises in early California and clashes with a young preacher."
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "description": "A stockbroker builds an empire of excess and fraud until the authorities close in."
+  },
+  {
+    "title": "Catch Me If You Can",
+    "description": "A teenage con artist impersonates a pilot and a doctor while an agent chases him across the country."
+  },
+  {
+    "title": "The Prestige",
+    "description": "Two rival magicians in Victorian London go to extreme lengths to outdo each other's greatest trick."
+  },
+  {
+    "title": "Memento",
+    "description": "A man with no short-term memory uses tattoos and notes to track down his wife's killer."
+  },
+  {
+    "title": "Se7en",
+    "description": "Two detectives hunt a serial killer who stages murders around the seven deadly sins."
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "description": "A young trainee seeks help from an imprisoned cannibal psychiatrist to catch a serial killer."
+  },
+  {
+    "title": "Zodiac",
+    "description": "A cartoonist and two investigators become obsessed with identifying a serial killer who taunts the press."
+  },
+  {
+    "title": "Gone Girl",
+    "description": "A husband becomes the prime suspect when his wife disappears on their anniversary, and the media piles on."
+  },
+  {
+    "title": "Prisoners",
+    "description": "A father takes matters into his own hands when his daughter disappears and the police have no leads."
+  },
+  {
+    "title": "Knives Out",
+    "description": "A detective investigates the death of a wealthy novelist at a family gathering full of suspects."
+  },
+  {
+    "title": "Joker",
+    "description": "A failed comedian in a decaying city descends into madness and becomes a violent symbol of revolt."
+  },
+  {
+    "title": "Rear Window",
+    "description": "A photographer confined to his apartment believes he has witnessed a murder in the building across the courtyard."
+  },
+  {
+    "title": "Psycho",
+    "description": "A secretary on the run stops at a lonely motel run by a shy young man and his domineering mother."
+  },
+  {
+    "title": "Vertigo",
+    "description": "A retired detective with a fear of heights becomes obsessed with a woman he is hired to follow."
+  },
+  {
+    "title": "North by Northwest",
+    "description": "An advertising executive is mistaken for a spy and is pursued across the country."
+  },
+  {
+    "title": "Oldboy",
+    "description": "A man imprisoned for fifteen years without explanation is suddenly released and hunts his captor."
+  },
+  {
+    "title": "Drishyam",
+    "description": "A man uses his knowledge of movies to protect his family after a teenager's accidental death."
+  },
+  {
+    "title": "The Usual Suspects",
+    "description": "A survivor tells police an elaborate story about a gang of criminals and a mysterious boss named Keyser Soze."
+  },
+  {
+    "title": "Mystic River",
+    "description": "Three childhood friends are reunited by a murder that tests loyalties and buried secrets."
+  },
+  {
+    "title": "Nightcrawler",
+    "description": "A petty thief turns to freelance crime journalism and crosses ethical lines to get footage."
+  },
+  {
+    "title": "Sicario",
+    "description": "An idealistic FBI agent is drawn into a covert operation against a drug cartel along the border."
+  },
+  {
+    "title": "Inside Man",
+    "description": "A detective negotiates with a bank robber whose plan hides a darker secret."
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "description": "A disgraced journalist and a hacker investigate a decades-old disappearance in a wealthy family."
+  },
+  {
+    "title": "Fargo",
+    "description": "A car salesman's botched kidnapping plan is investigated by a pregnant small-town police chief."
+  },
+  {
+    "title": "Get Out",
+    "description": "A young man visits his girlfriend's family and uncovers a disturbing secret."
+  },
+  {
+    "title": "Us",
+    "description": "A family on vacation is attacked by menacing doubles who look exactly like them."
+  },
+  {
+    "title": "A Quiet Place",
+    "description": "A family lives in silence to avoid creatures that hunt by sound."
+  },
+  {
+    "title": "The Sixth Sense",
+    "description": "A child psychologist helps a boy who claims he sees dead people."
+  },
+  {
+    "title": "The Others",
+    "description": "A mother protects her light-sensitive children in a dark mansion while strange events suggest the house is haunted."
+  },
+  {
+    "title": "The Shining",
+    "description": "A writer takes a winter caretaker job at an isolated hotel and slowly goes insane while his family is trapped."
+  },
+  {
+    "title": "The Exorcist",
+    "description": "Two priests attempt to save a young girl possessed by a demon."
+  },
+  {
+    "title": "Hereditary",
+    "description": "A family unravels after the death of their secretive grandmother as terrifying secrets emerge."
+  },
+  {
+    "title": "The Conjuring",
+    "description": "Paranormal investigators help a family terrorized by a dark presence in their farmhouse."
+  },
+  {
+    "title": "Insidious",
+    "description": "Parents try to save their son from a coma where spirits are trying to claim him."
+  },
+  {
+    "title": "It",
+    "description": "A group of kids band together to fight a shape-shifting clown that preys on their fears."
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "description": "Teenagers are stalked in their dreams by a killer with a clawed glove."
+  },
+  {
+    "title": "Halloween",
+    "description": "A masked killer escapes from an asylum and returns to his hometown on Halloween night."
+  },
+  {
+    "title": "Scream",
+    "description": "A masked killer targets teenagers who obey the rules of horror movies in a small town."
+  },
+  {
+    "title": "Train to Busan",
+    "description": "Passengers on a high-speed train fight for survival as a zombie outbreak spreads across the country."
+  },
+  {
+    "title": "28 Days Later",
+    "description": "A man wakes from a coma in a Britain overrun by infected people who rage and kill."
+  },
+  {
+    "title": "Shaun of the Dead",
+    "description": "A slacker and his best friend try to survive a zombie outbreak by hiding at a pub."
+  },
+  {
+    "title": "The Ring",
+    "description": "A journalist investigates a cursed videotape that kills viewers one week after they watch it."
+  },
+  {
+    "title": "Jaws",
+    "description": "A police chief, a marine scientist and a fisherman hunt a giant shark terrorizing a beach town."
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "description": "In fascist Spain, a girl escapes into a fairy-tale world while her stepfather hunts rebels."
+  },
+  {
+    "title": "The Babadook",
+    "description": "A widowed mother and her troubled son are tormented by a creature from a children's book."
+  },
+  {
+    "title": "Midsommar",
+    "description": "A grieving woman joins her boyfriend at a Swedish festival that turns into a cult ritual."
+  },
+  {
+    "title": "The Hangover",
+    "description": "Three friends wake up after a bachelor party in Las Vegas with no memory and a missing groom."
+  },
+  {
+    "title": "Superbad",
+    "description": "Two high school friends try to buy alcohol for a party before graduation and drift toward different futures."
+  },
+  {
+    "title": "Bridesmaids",
+    "description": "A maid of honor's life unravels as she competes with a rival for her best friend's attention."
+  },
+  {
+    "title": "Anchorman",
+    "description": "A conceited 1970s news anchor feels threatened when a female reporter joins his team."
+  },
+  {
+    "title": "Dumb and Dumber",
+    "description": "Two dim-witted friends set off across the country to return a briefcase to a woman."
+  },
+  {
+    "title": "Home Alone",
+    "description": "A boy accidentally left behind at Christmas defends his house from two clumsy burglars."
+  },
+  {
+    "title": "Mrs. Doubtfire",
+    "description": "A divorced actor disguises himself as a nanny to spend time with his children."
+  },
+  {
+    "title": "The Mask",
+    "description": "A timid bank clerk finds a magical mask that turns him into a wild troublemaker."
+  },
+  {
+    "title": "Groundhog Day",
+    "description": "A cynical weatherman is stuck reliving the same day until he learns to change."
+  },
+  {
+    "title": "Ferris Bueller's Day Off",
+    "description": "A charming teenager skips school and takes his friends on an unforgettable day in Chicago."
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "description": "A legendary concierge and his young lobby boy are caught up in the theft of a priceless painting."
+  },
+  {
+    "title": "Little Miss Sunshine",
+    "description": "A dysfunctional family drives a minivan across the country to take their daughter to a beauty pageant."
+  },
+  {
+    "title": "Juno",
+    "description": "A teenage girl decides to give her baby up for adoption and finds a couple to raise it."
+  },
+  {
+    "title": "The Intern",
+    "description": "A retired widower takes a part-time job as an intern at a fashion start-up and bonds with his young boss."
+  },
+  {
+    "title": "Crazy Rich Asians",
+    "description": "A professor discovers that her boyfriend's family is one of the richest in Singapore and not everyone approves."
+  },
+  {
+    "title": "The Princess Bride",
+    "description": "A farm boy fights to rescue his true love, with swordsmen, giants and a miracle man along the way."
+  },
+  {
+    "title": "Monty Python and the Holy Grail",
+    "description": "King Arthur and his knights go on an absurd quest to find the Holy Grail."
+  },
+  {
+    "title": "Airplane!",
+    "description": "When the crew falls ill, an ex-pilot with a fear of flying must land a jetliner."
+  },
+  {
+    "title": "Ghostbusters",
+    "description": "Three scientists start a business capturing ghosts in New York."
+  },
+  {
+    "title": "Beetlejuice",
+    "description": "A deceased couple hires a mischievous spirit to scare off the family who has moved into their home."
+  },
+  {
+    "title": "Tropic Thunder",
+    "description": "A group of actors filming a war movie are forced to survive a real conflict in the jungle."
+  },
+  {
+    "title": "Step Brothers",
+    "description": "Two grown men become rivals when their parents marry and force them to live together."
+  },
+  {
+    "title": "21 Jump Street",
+    "description": "Two mismatched cops go undercover as high school students to bust a drug ring."
+  },
+  {
+    "title": "Zoolander",
+    "description": "A dim-witted male model is brainwashed to assassinate a prime minister."
+  },
+  {
+    "title": "Mean Girls",
+    "description": "A homeschooled teenager joins a clique of popular girls in a new high school and learns the price of popularity."
+  },
+  {
+    "title": "Clueless",
+    "description": "A rich and spoiled Beverly Hills teenager plays matchmaker for her friends and learns about herself."
+  },
+  {
+    "title": "Legally Blonde",
+    "description": "A fashion student follows her ex to law school and proves she is more capable than anyone expected."
+  },
+  {
+    "title": "The Devil Wears Prada",
+    "description": "A young assistant struggles to survive working for the demanding editor of a fashion magazine."
+  },
+  {
+    "title": "Wedding Crashers",
+    "description": "Two divorce mediators sneak into weddings to meet women until one falls for a bridesmaid."
+  },
+  {
+    "title": "Night at the Museum",
+    "description": "A night guard discovers that the exhibits come to life after dark."
+  },
+  {
+    "title": "Jumanji",
+    "description": "Two children find a magical board game that unleashes jungle dangers in their house."
+  },
+  {
+    "title": "The Breakfast Club",
+    "description": "Five high schoolers from different cliques bond during a Saturday detention."
+  },
+  {
+    "title": "Stand by Me",
+    "description": "Four boys set off on a journey to find a dead body and discover things about themselves."
+  },
+  {
+    "title": "The Goonies",
+    "description": "A group of kids searches for a pirate's treasure to save their neighborhood from developers."
+  },
+  {
+    "title": "Gremlins",
+    "description": "A boy's pet creature multiplies and turns into mischievous monsters after three rules are broken."
+  },
+  {
+    "title": "The Terminal",
+    "description": "A traveler stranded in a New York airport after his country collapses makes a life inside the terminal."
+  },
+  {
+    "title": "Big",
+    "description": "A boy makes a wish to be grown up and wakes up as a man working in a toy company."
+  },
+  {
+    "title": "Tootsie",
+    "description": "An out-of-work actor disguises himself as a woman to land a soap opera role and falls for a costar."
+  },
+  {
+    "title": "Some Like It Hot",
+    "description": "Two musicians disguise themselves as women to hide from gangsters and join an all-female band."
+  },
+  {
+    "title": "Mr. & Mrs. Smith",
+    "description": "A bored married couple discovers that each is a secret assassin and then is hired to kill the other."
+  },
+  {
+    "title": "Hera Pheri",
+    "description": "Three broke men in Mumbai get tangled in a ransom call and a series of misunderstandings."
+  },
+  {
+    "title": "Munna Bhai M.B.B.S.",
+    "description": "A gangster poses as a doctor to fulfill his father's dream and reforms the medical system with kindness."
+  },
+  {
+    "title": "Chhichhore",
+    "description": "A group of college friends reunite to help a teenager facing failure by retelling their old hostel days."
+  },
+  {
+    "title": "Golmaal",
+    "description": "Four friends in an orphanage pretend to be a family to deceive a wealthy man."
+  },
+  {
+    "title": "PK",
+    "description": "An innocent alien stranded on Earth questions religious practices while searching for his lost remote."
+  },
+  {
+    "title": "Dil Chahta Hai",
+    "description": "Three friends in Mumbai navigate love, careers and a falling out as they grow up."
+  },
+  {
+    "title": "Jab We Met",
+    "description": "A heartbroken businessman meets a talkative girl on a train and the journey changes his outlook."
+  },
+  {
+    "title": "Piku",
+    "description": "A daughter and her demanding father travel from Delhi to Kolkata, and a cab owner joins them on the road."
+  },
+  {
+    "title": "Hum Aapke Hain Koun",
+    "description": "Two families are joined by marriage and a close bond between a younger brother and his sister-in-law is tested."
+  },
+  {
+    "title": "Vicky Donor",
+    "description": "An aimless young man becomes a sperm donor and faces unexpected complications in his life and marriage."
+  },
+  {
+    "title": "Stree",
+    "description": "Men in a small town are abducted by a female spirit who strikes during a festival, and friends try to stop her."
+  },
+  {
+    "title": "Bhool Bhulaiyaa",
+    "description": "A psychiatrist is called to investigate a haunted mansion owned by a family with a dark past."
+  },
+  {
+    "title": "Barfi!",
+    "description": "A deaf and mute man in 1970s Darjeeling charms two women with his humor and kindness."
+  },
+  {
+    "title": "Rang De Basanti",
+    "description": "College friends are changed after acting in a film about freedom fighters and take on corruption."
+  },
+  {
+    "title": "Swades",
+    "description": "A NASA scientist returns to his village in India and slowly decides to stay and help."
+  },
+  {
+    "title": "Kabhi Khushi Kabhie Gham",
+    "description": "A son is banished for marrying a woman his father disapproves of, and his brother searches to reunite the family."
+  },
+  {
+    "title": "Kuch Kuch Hota Hai",
+    "description": "A widowed father's daughter tries to reunite him with his college best friend and her old romantic interest."
+  },
+  {
+    "title": "Devdas",
+    "description": "A rich man's pride and family pressure destroy his love for his childhood sweetheart."
+  },
+  {
+    "title": "Mughal-E-Azam",
+    "description": "A prince defies his emperor father by falling in love with a court dancer."
+  },
+  {
+    "title": "Sholay",
+    "description": "Two petty criminals are hired by a retired police officer to capture a ruthless dacoit."
+  },
+  {
+    "title": "Mother India",
+    "description": "A poor village woman struggles to raise her sons and holds onto her honor through hardship."
+  },
+  {
+    "title": "Pather Panchali",
+    "description": "A poor family in rural Bengal lives through hardship seen through the eyes of a young girl and her brother."
+  },
+  {
+    "title": "Border",
+    "description": "Indian soldiers hold a remote outpost against a huge enemy force during the 1971 war."
+  },
+  {
+    "title": "Uri: The Surgical Strike",
+    "description": "Indian special forces plan and carry out a cross-border raid in response to a deadly terror attack."
+  },
+  {
+    "title": "Baahubali: The Beginning",
+    "description": "A young man learns his true royal lineage and fights to reclaim his kingdom from a tyrant."
+  },
+  {
+    "title": "RRR",
+    "description": "Two revolutionaries in 1920s India form a bond and fight British rule in different ways."
+  },
+  {
+    "title": "KGF Chapter 1",
+    "description": "A young man rises from poverty to rule a gold mine empire and challenge powerful enemies."
+  },
+  {
+    "title": "Pushpa: The Rise",
+    "description": "A laborer climbs the ranks of a sandalwood smuggling syndicate in the forests of Andhra Pradesh."
+  },
+  {
+    "title": "Vikram Vedha",
+    "description": "A police officer hunts a gangster who surrenders and tells stories that blur the lines of right and wrong."
+  },
+  {
+    "title": "Kahaani",
+    "description": "A pregnant woman arrives in Kolkata searching for her missing husband and uncovers a conspiracy."
+  },
+  {
+    "title": "Badla",
+    "description": "A businesswoman accused of murder meets a lawyer and gradually reveals a layered account of the night."
+  },
+  {
+    "title": "Article 15",
+    "description": "A new police officer investigates the disappearance of two girls in a village and confronts deep social discrimination."
+  },
+  {
+    "title": "Pink",
+    "description": "Three women in Delhi take on a legal fight after a night out turns into an accusation."
+  },
+  {
+    "title": "Super 30",
+    "description": "A mathematics teacher coaches thirty underprivileged students for the entrance exam of a top engineering institute."
+  },
+  {
+    "title": "Chak De India",
+    "description": "A disgraced hockey player coaches the women's national team and unites a divided group."
+  },
+  {
+    "title": "Bhaag Milkha Bhaag",
+    "description": "A runner overcomes personal tragedy and his past to become a national champion."
+  },
+  {
+    "title": "Mary Kom",
+    "description": "A boxer from Manipur fights to become a world champion while raising a family."
+  },
+  {
+    "title": "M.S. Dhoni: The Untold Story",
+    "description": "A railway ticket collector's son becomes captain of the Indian cricket team."
+  },
+  {
+    "title": "Tamasha",
+    "description": "A young man who lives a life of routine meets a woman on holiday and later realizes he is not living as himself."
+  },
+  {
+    "title": "Rockstar",
+    "description": "A college student seeks pain to fuel his music and falls into a complicated relationship."
+  },
+  {
+    "title": "Yeh Jawaani Hai Deewani",
+    "description": "Four friends reconnect after years when an old friend's wedding brings them together."
+  },
+  {
+    "title": "Wake Up Sid",
+    "description": "A spoiled young man moves in with a writer and learns responsibility."
+  },
+  {
+    "title": "Kapoor & Sons",
+    "description": "A family reunites in a hill town and long-buried tensions come to the surface."
+  },
+  {
+    "title": "Gangs of Wasseypur",
+    "description": "Three generations of a coal-mining family in Dhanbad fight a bloody feud."
+  },
+  {
+    "title": "Haider",
+    "description": "A young man returns to Kashmir to find out about his father's disappearance and gets drawn into political turmoil."
+  },
+  {
+    "title": "Black",
+    "description": "A deaf and blind girl's life is changed by her relentless teacher."
+  },
+  {
+    "title": "Paan Singh Tomar",
+    "description": "A national steeplechase champion becomes a rebel after being betrayed by the system."
+  },
+  {
+    "title": "Newton",
+    "description": "A young government clerk insists on holding fair elections in a conflict-ridden forest."
+  },
+  {
+    "title": "Lunchbox",
+    "description": "A mistaken lunch delivery leads to a bond between a lonely housewife and a widower through handwritten notes."
+  },
+  {
+    "title": "Tumbbad",
+    "description": "A greedy man hunts for a forgotten god's hidden treasure and pays a heavy price."
+  },
+  {
+    "title": "Masaan",
+    "description": "Two stories on the banks of the Ganges deal with love and loss in a conservative town."
+  },
+  {
+    "title": "Secret Superstar",
+    "description": "A teenage girl hides her identity to post videos online and chase a singing dream despite a controlling father."
+  },
+  {
+    "title": "Hindi Medium",
+    "description": "Wealthy parents go to extreme lengths to get their daughter admitted to an elite school."
+  },
+  {
+    "title": "Dear Zindagi",
+    "description": "A young cinematographer sees a therapist who helps her face her past and make peace with relationships."
+  },
+  {
+    "title": "October",
+    "description": "A hotel intern's life changes after an accident leaves a colleague in a coma and he starts visiting her."
+  },
+  {
+    "title": "Sairat",
+    "description": "A fisherman's son and a landlord's daughter run away together in rural Maharashtra, facing the consequences."
+  },
+  {
+    "title": "Kantara",
+    "description": "A villager and the forest guardian spirit are at the center of a conflict with a forest officer."
+  },
+  {
+    "title": "Vikram",
+    "description": "A secret agent investigates masked killers while a retired officer reveals his true identity."
+  },
+  {
+    "title": "Ponniyin Selvan: I",
+    "description": "Chola princes and conspirators battle for the throne in a historical epic."
+  },
+  {
+    "title": "Premam",
+    "description": "A young man's life is shaped by three different romances through school, college and adulthood."
+  },
+  {
+    "title": "Bangalore Days",
+    "description": "Three cousins move to Bangalore and fall in love, chasing independence and dreams."
+  },
+  {
+    "title": "Amélie",
+    "description": "A shy waitress in Paris secretly improves the lives of those around her while looking for love."
+  },
+  {
+    "title": "Cinema Paradiso",
+    "description": "A filmmaker recalls his childhood friendship with a projectionist in a small Sicilian village."
+  },
+  {
+    "title": "Spirited Away",
+    "description": "A girl wanders into a world of spirits and must work in a bathhouse to free her parents."
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "description": "Two sisters move to the countryside and befriend gentle forest spirits."
+  },
+  {
+    "title": "Princess Mononoke",
+    "description": "A prince cursed by a demon becomes entangled in a battle between forest gods and an iron town."
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "description": "A young woman cursed to look old finds refuge in a wizard's walking castle."
+  },
+  {
+    "title": "Your Name",
+    "description": "Two teenagers who swap bodies in their dreams try to find each other across time and distance."
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "description": "Two orphaned siblings struggle to survive in Japan during the final months of World War II."
+  },
+  {
+    "title": "Akira",
+    "description": "In a post-apocalyptic Tokyo, a biker tries to stop his friend whose powers are growing out of control."
+  },
+  {
+    "title": "Ghost in the Shell",
+    "description": "A cyborg security agent hunts a mysterious hacker who can manipulate minds."
+  },
+  {
+    "title": "Rashomon",
+    "description": "A murder in a forest is told by four witnesses, each with a different version of the truth."
+  },
+  {
+    "title": "Ikiru",
+    "description": "A bureaucrat given a limited time to live searches for meaning by building a children's park."
+  },
+  {
+    "title": "Tokyo Story",
+    "description": "An elderly couple visits their grown children in Tokyo and finds them too busy to spend time with them."
+  },
+  {
+    "title": "City of God",
+    "description": "Two boys grow up in a Rio de Janeiro slum, one becoming a photographer and the other a drug lord."
+  },
+  {
+    "title": "Central Station",
+    "description": "A bitter retired teacher helps a young boy find his father across Brazil."
+  },
+  {
+    "title": "Y Tu Mamá También",
+    "description": "Two teenage friends take a road trip with an older woman, and secrets surface along the way."
+  },
+  {
+    "title": "The Motorcycle Diaries",
+    "description": "A young medical student and his friend travel across South America and see the injustice that shapes their future."
+  },
+  {
+    "title": "The Lives of Others",
+    "description": "A secret police officer monitoring a writer in East Berlin starts to question his loyalty."
+  },
+  {
+    "title": "Run Lola Run",
+    "description": "A young woman has twenty minutes to find money to save her boyfriend, trying three versions of the same events."
+  },
+  {
+    "title": "Downfall",
+    "description": "The last days of Hitler in his Berlin bunker as the regime collapses."
+  },
+  {
+    "title": "Amores Perros",
+    "description": "Three stories connect through a car crash in Mexico City."
+  },
+  {
+    "title": "The Secret in Their Eyes",
+    "description": "A retired investigator revisits an unsolved murder case and the woman he never confessed his love to."
+  },
+  {
+    "title": "A Separation",
+    "description": "A couple's separation in Tehran leads to a legal dispute that exposes class and moral tensions."
+  },
+  {
+    "title": "The Handmaiden",
+    "description": "A con man and a pickpocket plot to swindle a Japanese heiress in 1930s Korea, but the plan goes wrong."
+  },
+  {
+    "title": "Burning",
+    "description": "A young delivery worker becomes suspicious of a wealthy man who is dating his childhood friend."
+  },
+  {
+    "title": "Memories of Murder",
+    "description": "Detectives in a Korean village hunt a serial killer using outdated methods."
+  },
+  {
+    "title": "Shoplifters",
+    "description": "A family of petty thieves takes in a neglected child and their fragile bond is tested."
+  },
+  {
+    "title": "Roma",
+    "description": "A live-in maid for a middle-class family in 1970s Mexico City faces personal hardship amid political unrest."
+  },
+  {
+    "title": "Cold War",
+    "description": "A pianist and a singer fall in love in postwar Poland, and the Iron Curtain keeps them apart."
+  },
+  {
+    "title": "Ida",
+    "description": "A young nun in 1960s Poland discovers a family secret about her Jewish roots before taking her vows."
+  },
+  {
+    "title": "Incendies",
+    "description": "Twins travel to the Middle East to uncover their mother's past after her death."
+  },
+  {
+    "title": "The Great Beauty",
+    "description": "An aging journalist in Rome reflects on his life and the city's decadent high society."
+  },
+  {
+    "title": "Okja",
+    "description": "A girl in the mountains of South Korea tries to rescue her giant pet from a multinational corporation."
+  },
+  {
+    "title": "Snowpiercer",
+    "description": "On a train circling a frozen Earth, the poor rebel against the elite in the front."
+  },
+  {
+    "title": "The Host",
+    "description": "A family tries to rescue a girl from a monster that emerges from a river in Seoul."
+  },
+  {
+    "title": "The Wailing",
+    "description": "A police officer investigates mysterious deaths in a village after a stranger arrives."
+  },
+  {
+    "title": "Mother",
+    "description": "A mother tries to prove her son's innocence in a murder case."
+  },
+  {
+    "title": "The Lion King",
+    "description": "A young lion prince flees his kingdom after his father's death and returns to take his place."
+  },
+  {
+    "title": "Aladdin",
+    "description": "A street thief with a magic lamp falls in love with a princess and must stop a scheming vizier."
+  },
+  {
+    "title": "Beauty and the Beast",
+    "description": "A bookish young woman befriends a cursed prince and his enchanted servants."
+  },
+  {
+    "title": "The Little Mermaid",
+    "description": "A mermaid trades her voice to a sea witch to walk on land and win a prince."
+  },
+  {
+    "title": "Frozen",
+    "description": "A princess sets out with a mountaineer and a snowman to find her sister, who has frozen the kingdom."
+  },
+  {
+    "title": "Moana",
+    "description": "A navigator sails across the ocean with a demigod to restore the heart of a goddess and save her island."
+  },
+  {
+    "title": "Tangled",
+    "description": "A girl with magical hair who has been locked in a tower leaves with a thief to see the lanterns."
+  },
+  {
+    "title": "Coco",
+    "description": "A boy who dreams of becoming a musician enters the Land of the Dead to uncover his family's history."
+  },
+  {
+    "title": "Inside Out",
+    "description": "A girl's emotions guide her through a hard move to a new city."
+  },
+  {
+    "title": "Up",
+    "description": "An elderly widower ties thousands of balloons to his house and flies to South America with a young stowaway."
+  },
+  {
+    "title": "Ratatouille",
+    "description": "A rat with a talent for cooking teams up with a clumsy kitchen worker in a Paris restaurant."
+  },
+  {
+    "title": "Monsters, Inc.",
+    "description": "Two monsters who power their city with children's screams discover that laughter is more powerful."
+  },
+  {
+    "title": "The Incredibles",
+    "description": "A family of former superheroes living in hiding is drawn back into action to stop a vengeful inventor."
+  },
+  {
+    "title": "Cars",
+    "description": "A hotshot race car stranded in a small desert town learns about friendship and humility."
+  },
+  {
+    "title": "Shrek",
+    "description": "An ogre goes on a quest with a talking donkey to rescue a princess and get his swamp back."
+  },
+  {
+    "title": "Madagascar",
+    "description": "Zoo animals escape from New York and end up stranded on an island full of lemurs."
+  },
+  {
+    "title": "Ice Age",
+    "description": "A mammoth, a sloth and a saber-toothed tiger travel together to return a human baby to its tribe."
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "description": "A Viking teenager befriends an injured dragon and challenges his village's traditions."
+  },
+  {
+    "title": "Despicable Me",
+    "description": "A supervillain plans to steal the moon but is softened by three orphan girls he adopts."
+  },
+  {
+    "title": "Zootopia",
+    "description": "A rabbit police officer and a fox con artist uncover a conspiracy in a city where animals live together."
+  },
+  {
+    "title": "Big Hero 6",
+    "description": "A boy genius and a healthcare robot form a team of heroes to find the masked man behind a deadly fire."
+  },
+  {
+    "title": "Wreck-It Ralph",
+    "description": "A video game villain leaves his arcade game to prove he can be a hero."
+  },
+  {
+    "title": "The Iron Giant",
+    "description": "A boy befriends a giant robot from space and tries to protect him from a paranoid government agent."
+  },
+  {
+    "title": "Kubo and the Two Strings",
+    "description": "A young boy with a magical instrument searches for a legendary suit of armor to defeat a vengeful spirit."
+  },
+  {
+    "title": "Coraline",
+    "description": "A girl discovers a secret door to an alternate world that seems perfect but hides a dark secret."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "description": "An orphan learns he is a wizard and begins at a school of magic where he uncovers a mystery."
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "description": "A young wizard learns that a dangerous prisoner has escaped and may be after him."
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "description": "The young wizards face the final battle against a dark lord at their school."
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "description": "Four siblings enter a magical land through a wardrobe and join a lion to defeat a witch."
+  },
+  {
+    "title": "Charlie and the Chocolate Factory",
+    "description": "A poor boy wins a golden ticket to tour an eccentric candy maker's factory."
+  },
+  {
+    "title": "Matilda",
+    "description": "A gifted girl with telekinetic powers stands up to her neglectful parents and a cruel headmistress."
+  },
+  {
+    "title": "Mary Poppins",
+    "description": "A magical nanny uses a spoonful of imagination to help a stuffy family rediscover joy."
+  },
+  {
+    "title": "The Sound of Music",
+    "description": "A governess brings music and love to a widowed captain's children as war approaches Austria."
+  },
+  {
+    "title": "Paddington 2",
+    "description": "A polite bear is wrongly imprisoned and his adopted family set out to prove his innocence."
+  },
+  {
+    "title": "Hugo",
+    "description": "An orphan living in a Paris train station discovers a mechanical man tied to a forgotten filmmaker."
+  },
+  {
+    "title": "The Wizard of Oz",
+    "description": "A Kansas girl swept to a magical land follows a yellow brick road to find a wizard who can send her home."
+  },
+  {
+    "title": "Peter Pan",
+    "description": "A boy who never grows up takes three children to Neverland, where they face pirates."
+  },
+  {
+    "title": "Mulan",
+    "description": "A young woman disguises herself as a man to take her father's place in the army and defends China."
+  },
+  {
+    "title": "Tarzan",
+    "description": "A boy raised by gorillas in the jungle meets humans and must choose where he belongs."
+  },
+  {
+    "title": "Lilo & Stitch",
+    "description": "A lonely Hawaiian girl adopts a strange alien dog who is really a genetic experiment on the run."
+  },
+  {
+    "title": "Luca",
+    "description": "Two sea monster boys explore an Italian seaside town in human form, enjoying summer and keeping their secret."
+  },
+  {
+    "title": "Soul",
+    "description": "A jazz musician who falls into a soul world must find his way back to his body and learn what makes life meaningful."
+  },
+  {
+    "title": "Encanto",
+    "description": "A girl in a magical family without gifts tries to save the home that her relatives depend on."
+  },
+  {
+    "title": "Turning Red",
+    "description": "A teenager turns into a giant red panda whenever she gets excited and struggles to balance family and self."
+  },
+  {
+    "title": "Sing",
+    "description": "A koala impresario stages a singing contest to save his theater and gives each contestant a chance."
+  },
+  {
+    "title": "Chicken Run",
+    "description": "Chickens plot an escape from a farm run by a ruthless couple."
+  },
+  {
+    "title": "Wallace and Gromit: The Curse of the Were-Rabbit",
+    "description": "An inventor and his dog protect a village from a giant rabbit raiding vegetable gardens."
+  },
+  {
+    "title": "The Nightmare Before Christmas",
+    "description": "The pumpkin king of Halloween Town tries to take over Christmas and discovers its meaning."
+  },
+  {
+    "title": "The Polar Express",
+    "description": "A boy boards a magical train to the North Pole and begins to believe."
+  },
+  {
+    "title": "The Notebook",
+    "description": "A poor young man and a rich girl fall in love one summer, and years later he reads their story to her."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "description": "A spirited young woman and a proud gentleman misjudge each other before discovering love in Regency England."
+  },
+  {
+    "title": "Casablanca",
+    "description": "A cynical American nightclub owner must choose between love and helping a resistance leader escape the Nazis."
+  },
+  {
+    "title": "Gone with the Wind",
+    "description": "A headstrong Southern belle fights to hold onto her land and win a man during and after the Civil War."
+  },
+  {
+    "title": "Roman Holiday",
+    "description": "A princess escapes her duties and spends a day in Rome with an American reporter."
+  },
+  {
+    "title": "When Harry Met Sally",
+    "description": "Two friends spend years debating whether men and women can be friends without falling in love."
+  },
+  {
+    "title": "Sleepless in Seattle",
+    "description": "A widowed father's son calls a radio show to find him a new wife, and a journalist across the country takes notice."
+  },
+  {
+    "title": "You've Got Mail",
+    "description": "Two business rivals fall in love anonymously online without realizing who the other is."
+  },
+  {
+    "title": "Notting Hill",
+    "description": "A bookshop owner in London falls for a world-famous actress who walks into his store."
+  },
+  {
+    "title": "Love Actually",
+    "description": "Interwoven stories of love and heartbreak unfold in London in the weeks before Christmas."
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "description": "A couple who undergo a procedure to erase memories of each other try to find their way back."
+  },
+  {
+    "title": "500 Days of Summer",
+    "description": "A greeting card writer reflects on the rise and fall of his relationship with a woman who doesn't believe in love."
+  },
+  {
+    "title": "Before Sunrise",
+    "description": "A young American and a French woman meet on a train and spend one night walking through Vienna."
+  },
+  {
+    "title": "A Walk to Remember",
+    "description": "A rebellious teenager falls in love with a quiet minister's daughter and she changes his life."
+  },
+  {
+    "title": "Crazy, Stupid, Love",
+    "description": "A man whose marriage is falling apart gets a makeover from a young ladies' man who soon meets his match."
+  },
+  {
+    "title": "About Time",
+    "description": "A young man who can travel in time uses the gift to find love and learns to appreciate ordinary moments."
+  },
+  {
+    "title": "Call Me by Your Name",
+    "description": "A teenager and a visiting scholar share a summer romance in northern Italy."
+  },
+  {
+    "title": "Brokeback Mountain",
+    "description": "Two cowboys form an unexpected, lifelong bond over years of secret meetings."
+  },
+  {
+    "title": "Carol",
+    "description": "A young shop clerk falls in love with an older woman in 1950s New York."
+  },
+  {
+    "title": "Blue Valentine",
+    "description": "A couple's marriage is shown through flashes of its early romance and its slow collapse."
+  },
+  {
+    "title": "Lost in Translation",
+    "description": "A fading actor and a young woman, both lonely in Tokyo, form an unlikely friendship."
+  },
+  {
+    "title": "The Great Gatsby",
+    "description": "A newcomer to Long Island is drawn into the world of a mysterious millionaire obsessed with an old flame."
+  },
+  {
+    "title": "Little Women",
+    "description": "Four sisters grow up in New England during the Civil War, each pursuing her own dream."
+  },
+  {
+    "title": "Atonement",
+    "description": "A young girl's false accusation tears apart a couple, and she spends years trying to make amends."
+  },
+  {
+    "title": "The English Patient",
+    "description": "A burned man in a villa in Italy recalls his forbidden love affair as World War II nears its end."
+  },
+  {
+    "title": "Out of Africa",
+    "description": "A Danish woman in Kenya builds a coffee farm and falls in love with a free-spirited hunter."
+  },
+  {
+    "title": "Moulin Rouge!",
+    "description": "A young poet falls in love with a dancer at a Paris nightclub who is promised to a duke."
+  },
+  {
+    "title": "West Side Story",
+    "description": "Two young lovers from rival street gangs in New York try to be together."
+  },
+  {
+    "title": "Grease",
+    "description": "A greaser and a good girl fall in love over summer and meet again at high school."
+  },
+  {
+    "title": "Dirty Dancing",
+    "description": "A sheltered teenager at a resort in the Catskills falls for a dance instructor."
+  },
+  {
+    "title": "Pretty Woman",
+    "description": "A wealthy businessman hires an escort to accompany him to events and they begin to fall in love."
+  },
+  {
+    "title": "Ghost",
+    "description": "A murdered banker stays on Earth as a spirit to protect his girlfriend and uses a psychic as his voice."
+  },
+  {
+    "title": "Moneyball",
+    "description": "The manager of a low-budget baseball team uses statistics to build a competitive roster."
+  },
+  {
+    "title": "The Blind Side",
+    "description": "A wealthy family takes in a homeless teenager who becomes a football star."
+  },
+  {
+    "title": "Remember the Titans",
+    "description": "A coach unites a racially divided high school football team in Virginia in 1971."
+  },
+  {
+    "title": "Rush",
+    "description": "Two rival Formula One drivers push each other to the limit in 1976."
+  },
+  {
+    "title": "Ford v Ferrari",
+    "description": "An engineer and a driver build a race car to beat Ferrari at Le Mans."
+  },
+  {
+    "title": "Million Dollar Baby",
+    "description": "A trainer reluctantly coaches a determined waitress who dreams of becoming a boxer."
+  },
+  {
+    "title": "Hoosiers",
+    "description": "A coach with a troubled past leads a small-town Indiana basketball team toward a state championship."
+  },
+  {
+    "title": "Rudy",
+    "description": "A small, undersized young man dreams of playing football at Notre Dame."
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "description": "The rise of the band Queen and its flamboyant lead singer up to their Live Aid performance."
+  },
+  {
+    "title": "Rocketman",
+    "description": "The story of a shy pianist who becomes a flamboyant superstar through fame and excess."
+  },
+  {
+    "title": "Walk the Line",
+    "description": "A country singer's rise to fame and his troubled romance with a fellow singer."
+  },
+  {
+    "title": "Ray",
+    "description": "A blind musician overcomes personal struggles to become a legend of soul music."
+  },
+  {
+    "title": "Straight Outta Compton",
+    "description": "Five young men from Compton turn their lives into a hip-hop group that changes music."
+  },
+  {
+    "title": "The Imitation Game",
+    "description": "A mathematician leads a team of codebreakers during World War II to crack the Enigma code."
+  },
+  {
+    "title": "The Theory of Everything",
+    "description": "A young physicist builds a brilliant career while his marriage faces strain."
+  },
+  {
+    "title": "Steve Jobs",
+    "description": "Three product launches reveal the temper and vision of the man who built a technology empire."
+  },
+  {
+    "title": "Hidden Figures",
+    "description": "Three Black women mathematicians at NASA help launch an astronaut into orbit during the space race."
+  },
+  {
+    "title": "Selma",
+    "description": "Martin Luther King Jr. leads the voting rights marches from Selma to Montgomery."
+  },
+  {
+    "title": "12 Years a Slave",
+    "description": "A free Black man is kidnapped and sold into slavery in the American South."
+  },
+  {
+    "title": "Lincoln",
+    "description": "The president fights to pass the amendment that will abolish slavery near the end of the Civil War."
+  },
+  {
+    "title": "Amadeus",
+    "description": "A rival composer plots to ruin the brilliant Mozart in Vienna."
+  },
+  {
+    "title": "The Aviator",
+    "description": "The early years of Howard Hughes and his rise as a filmmaker and pioneering aviator."
+  },
+  {
+    "title": "Gandhi",
+    "description": "The life of the lawyer who led India to independence through nonviolent resistance."
+  },
+  {
+    "title": "Sardar Udham",
+    "description": "A revolutionary plans for years to take revenge for the Jallianwala Bagh massacre."
+  },
+  {
+    "title": "Neerja",
+    "description": "A flight attendant shows courage while protecting passengers during a hijacking."
+  },
+  {
+    "title": "The Neverending Story",
+    "description": "A bullied boy reads a magical book and finds himself part of a quest to save a fantasy world."
+  },
+  {
+    "title": "Labyrinth",
+    "description": "A teenager must solve a maze to rescue her baby brother from a goblin king."
+  },
+  {
+    "title": "Stardust",
+    "description": "A young man crosses into a magical kingdom to retrieve a fallen star for the girl he loves."
+  },
+  {
+    "title": "Edward Scissorhands",
+    "description": "An artificial man with scissors for hands is taken in by a suburban family and struggles to fit in."
+  },
+  {
+    "title": "Big Fish",
+    "description": "A son tries to separate fact from fiction in his dying father's tall tales."
+  },
+  {
+    "title": "The Curious Case of Benjamin Button",
+    "description": "A man ages in reverse and meets the love of his life as both move through time."
+  },
+  {
+    "title": "Alice in Wonderland",
+    "description": "A girl follows a white rabbit into a strange world ruled by a mad queen."
+  },
+  {
+    "title": "Maleficent",
+    "description": "A fairy who is betrayed by a king curses his newborn daughter and then protects her."
+  },
+  {
+    "title": "The Shape of Water",
+    "description": "A mute cleaner at a government lab forms a bond with an amphibious creature held captive."
+  },
+  {
+    "title": "Doctor Strange",
+    "description": "A surgeon whose hands are damaged learns the mystic arts and defends the world from magical threats."
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "description": "An exiled god must escape a gladiator planet and stop his sister from destroying his home world."
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "description": "A super soldier uncovers a conspiracy inside an intelligence agency and faces a deadly assassin."
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "description": "The heroes join forces to stop a powerful titan who is collecting stones to wipe out half of all life."
+  },
+  {
+    "title": "Wonder Woman",
+    "description": "An Amazon warrior leaves her island home to stop a war and discovers her true power."
+  },
+  {
+    "title": "Aquaman",
+    "description": "An outcast half-human prince must claim the throne of Atlantis to prevent a war with the surface world."
+  },
+  {
+    "title": "The Batman",
+    "description": "A young vigilante investigates a killer targeting Gotham's elite and uncovers corruption."
+  },
+  {
+    "title": "Logan",
+    "description": "A weary mutant protects a young girl with similar powers on a final run to a refuge."
+  },
+  {
+    "title": "Deadpool",
+    "description": "A wisecracking mercenary hunts the man who experimented on him and left him disfigured."
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "description": "Mutants send a consciousness back in time to prevent a future war."
+  },
+  {
+    "title": "Spider-Man 2",
+    "description": "A young hero struggles with his double life as a scientist builds a deadly machine."
+  },
+  {
+    "title": "Superman",
+    "description": "A farm boy from another planet becomes a reporter by day and a hero to the world."
+  },
+  {
+    "title": "V for Vendetta",
+    "description": "A masked anarchist fights a totalitarian government in a future Britain."
+  },
+  {
+    "title": "The Hunger Games",
+    "description": "A girl volunteers in place of her sister for a televised fight to the death between teenagers."
+  },
+  {
+    "title": "The Maze Runner",
+    "description": "A boy wakes in a glade surrounded by a deadly maze and tries to escape with other teens."
+  },
+  {
+    "title": "Twilight",
+    "description": "A teenage girl falls for a vampire who struggles with his thirst in a small Washington town."
+  },
+  {
+    "title": "Reservoir Dogs",
+    "description": "After a failed jewelry heist, surviving criminals suspect that one of them is an informant."
+  },
+  {
+    "title": "Leon: The Professional",
+    "description": "A hitman takes in a twelve-year-old girl whose family was killed by corrupt agents."
+  },
+  {
+    "title": "L.A. Confidential",
+    "description": "Three police officers uncover a conspiracy inside the 1950s Los Angeles police department."
+  },
+  {
+    "title": "Chinatown",
+    "description": "A private investigator hired in a routine case finds a web of corruption over a city's water supply."
+  },
+  {
+    "title": "The French Connection",
+    "description": "Two narcotics detectives chase a heroin smuggling ring from New York to Marseille."
+  },
+  {
+    "title": "Training Day",
+    "description": "A rookie narcotics officer spends a day with a corrupt veteran who tests his morals."
+  },
+  {
+    "title": "Collateral",
+    "description": "A cab driver is forced to drive a hitman across Los Angeles for a night of killings."
+  },
+  {
+    "title": "Drive",
+    "description": "A stuntman who works as a getaway driver protects a neighbor and gets entangled with the mob."
+  },
+  {
+    "title": "American Gangster",
+    "description": "A Harlem driver builds a heroin empire while a detective tracks him down."
+  },
+  {
+    "title": "Donnie Brasco",
+    "description": "An undercover agent infiltrates the mob and grows close to a middle-level hitman."
+  },
+  {
+    "title": "Casino",
+    "description": "Two friends run a Las Vegas casino for the mob until greed and betrayal tear them apart."
+  },
+  {
+    "title": "The Town",
+    "description": "A bank robber falls for a bank manager he took hostage and plans one last big heist."
+  },
+  {
+    "title": "Gone Baby Gone",
+    "description": "Two private investigators search Boston's rough neighborhoods for a missing child and face moral choices."
+  },
+  {
+    "title": "Dial M for Murder",
+    "description": "A retired tennis player plots to have his wife killed and plans a perfect alibi."
+  },
+  {
+    "title": "Strangers on a Train",
+    "description": "Two men meet on a train and discuss swapping murders, but one takes the idea seriously."
+  },
+  {
+    "title": "Seabiscuit",
+    "description": "A trainer, a jockey and an owner turn an underdog racehorse into a champion during the Great Depression."
+  },
+  {
+    "title": "War Horse",
+    "description": "A young farm boy's beloved horse is sold to the cavalry and endures World War I."
+  },
+  {
+    "title": "Hachi: A Dog's Tale",
+    "description": "A professor adopts a stray dog who waits for him at the train station every day."
+  },
+  {
+    "title": "Marley & Me",
+    "description": "A newlywed couple adopts a rowdy Labrador who changes their family over thirteen years."
+  },
+  {
+    "title": "Singin' in the Rain",
+    "description": "A silent film star and an aspiring actress navigate Hollywood's shift to talkies."
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "description": "An angel shows a struggling small-town banker how many lives he has touched."
+  },
+  {
+    "title": "Citizen Kane",
+    "description": "A reporter tries to understand the last word of a dying newspaper tycoon by interviewing those who knew him."
+  },
+  {
+    "title": "Sunset Boulevard",
+    "description": "A struggling screenwriter becomes entangled with a faded silent film star living in a mansion."
+  },
+  {
+    "title": "The Apartment",
+    "description": "An office worker lends his apartment to bosses for affairs and falls for an elevator operator."
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "description": "A British officer unites Arab tribes against the Ottoman Empire and struggles with his identity."
+  },
+  {
+    "title": "Ben-Hur",
+    "description": "A Jewish prince is enslaved by a childhood friend and seeks revenge in a chariot race."
+  },
+  {
+    "title": "Spartacus",
+    "description": "A slave leads a rebellion against the Roman Republic."
   }
 ]

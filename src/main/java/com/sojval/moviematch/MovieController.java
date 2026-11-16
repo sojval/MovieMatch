@@ -19,7 +19,7 @@ public class MovieController {
         return movieService.search(query);
     }
 
-    @GetMapping("/{title}/similar")
+    @GetMapping("/similar/{title}")
     public List<MovieMatch> similarMovies(@PathVariable String title) {
         return movieService.similarMovies(title);
     }
